@@ -9,6 +9,11 @@ It shows the native pixel values from the HDR framebuffer (scRGB float16), and a
 
 <img width="2123" height="739" alt="Screenshot 2026-05-07 02-09-07_cropped" src="https://github.com/user-attachments/assets/da4a8e52-f8f4-4c6b-962f-42cc4b11eec5" />
 
+&nbsp;
+
+
+The HDR screenshots are taken as JXR on a Windows PC with SDR at 100 nits, and luminance is scaled 2.03x before saving as PNG. This is because Chromium renders 203 nits in HDR images as SDR white.
+
 ### Regarding precision
 
 This app reads the native scRGB FP16 values from the Windows HDR frame buffer, so we are limited by FP16's precision.
