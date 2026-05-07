@@ -12,7 +12,7 @@ It shows the native pixel values from the HDR framebuffer (scRGB float16), and a
 &nbsp;
 
 
-The HDR screenshots are taken as JXR on a Windows PC with SDR at 100 nits, and luminance is scaled 2.03x before saving as PNG. This is because Chromium renders 203 nits in HDR images as SDR white.
+The HDR screenshots are taken as JXR on a Windows PC with SDR at 100 nits, and luminance is scaled 2.03x before saving as PNG. The screenshots appears identical to the original image when Chrome is used at OS SDR = 100 nits (Chrome scales 203 nits in HDR images to SDR white).
 
 ### Regarding precision
 
