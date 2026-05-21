@@ -1,13 +1,31 @@
 
 # HDR Color Meter for Windows
 
-This app can read native HDR pixel values under the user's mouse.
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NFTNFF5SDNT)
+
+
+HDR Color Meter can read the native HDR pixel values under the user's cursor, as well as SDR RGB values.
 
 It shows the native pixel values from the HDR framebuffer (scRGB float16), and also shows the pixel values in Linear BT709 and BT2020 (100.0 = 100 nits)
 
-<img width="2030" height="732" alt="Screenshot 2026-05-07 02-04-43_cropped" src="https://github.com/user-attachments/assets/f3ecee17-20e2-4181-bb1a-b619d91d5445" />
+### Screenshots
 
-<img width="2123" height="739" alt="Screenshot 2026-05-07 02-09-07_cropped" src="https://github.com/user-attachments/assets/da4a8e52-f8f4-4c6b-962f-42cc4b11eec5" />
+**Reading SDR RGB values**
+
+
+
+https://github.com/user-attachments/assets/66ec66eb-d9fe-4b43-8851-35810501485b
+
+
+
+**Reading HDR RGB values**
+
+<img width="650"  alt="Screenshot 2026-05-22 06-13-22_cropped" src="https://github.com/user-attachments/assets/a0bcf6ca-1cd9-46fc-99c5-93817518ec55" />
+
+<img width="700"  alt="Screenshot 2026-05-22 06-15-17_cropped" src="https://github.com/user-attachments/assets/ed904f76-3044-41ab-bafc-e96b685750d6" />
+
+
+
 
 &nbsp;
 
