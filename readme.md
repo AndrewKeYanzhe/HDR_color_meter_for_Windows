@@ -42,7 +42,7 @@ https://learn.microsoft.com/en-us/windows/win32/direct3darticles/high-dynamic-ra
 > - IEEE half precision (FP16 bit depth)
 > - 1.0f is 80 nits
 
-At 100 nits (scRGB 1.25), FP16's quantisation step is 2^-10 * 1.0 = 0.000977 in scRGB or ≈ 0.1 nits.
+At 100 nits (scRGB 1.25), FP16's quantisation step is 2^-10 * 1.0 = 0.000977 in scRGB or ≈ 0.08 nits.
 
 PQ HDR videos are typically encoded with 10 bit limited range, and this has a larger quantisation step of 0.98 nits at a signal of 100 nits.
 
