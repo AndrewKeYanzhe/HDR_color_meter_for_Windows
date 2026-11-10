@@ -44,10 +44,10 @@ https://learn.microsoft.com/en-us/windows/win32/direct3darticles/high-dynamic-ra
 
 At 100 nits (scRGB 1.25), FP16's quantisation step is 2^-10 * 1.0 = 0.000977 in scRGB or ≈ 0.08 nits.
 
-PQ HDR videos are typically encoded with 10 bit limited range, and this has a larger quantisation step of 0.98 nits at a signal of 100 nits.
+PQ HDR videos are typically encoded with 10 bit limited range, and this has a larger quantisation step of approximately 1.14 nits at a signal of 100 nits.
 
-- Limited range PQ code value 509 is 100.23 nits
-- Limited range PQ code value 510 is 101.21 nits (so 0.98 nits higher)
+- Limited range PQ code value 509 is 99.91 nits
+- Limited range PQ code value 510 is 101.06 nits (so 1.14 nits higher)
 
 10-bit full range PQ images have a quantisation step of approximately 0.98 nits at a signal of 100 nits.
 
