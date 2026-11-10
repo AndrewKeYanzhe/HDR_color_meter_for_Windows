@@ -48,3 +48,13 @@ PQ HDR videos are typically encoded with 10 bit limited range, and this has a la
 
 - Limited range PQ code value 509 is 100.23 nits
 - Limited range PQ code value 510 is 101.21 nits (so 0.98 nits higher)
+
+10-bit full range PQ images have a quantisation step of approximately 0.98 nits at a signal of 100 nits.
+
+- Full range PQ code value 520 is 100.23 nits
+- Full range PQ code value 521 is 101.21 nits (so 0.98 nits higher)
+
+12-bit full range PQ images have a quantisation step of approximately 0.24 nits at a signal of 100 nits.
+
+- Full range PQ code value 2081 is 100.10 nits
+- Full range PQ code value 2082 is 100.35 nits (so 0.24 nits higher)
